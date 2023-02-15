@@ -106,7 +106,7 @@
                                     <a href="<?php echo base_url('wishlist/index') ?>" class="font-dark">Wishlist saya</a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url('/notfound/error404') ?>" class="font-dark">Shopping FAQs</a>
+                                    <a href="<?php echo base_url('faq/index') ?>" class="font-dark">Shopping FAQs</a>
                                 </li>
                             </ul>
                         </div>
