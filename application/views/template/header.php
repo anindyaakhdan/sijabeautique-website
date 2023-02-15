@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <link rel="manifest" href="../manifest.json" />
+    <link rel="manifest" href="manifest.json" />
     <link rel="icon" href="../assets/images/favicon/2.png" type="image/x-icon" />
     <link rel="apple-touch-icon" href="../assets/images/favicon/2.png" />
     <meta name="theme-color" content="#e22454" />
@@ -229,7 +229,8 @@
                                                                     <div class="submenu-content opensubmegamenu">
                                                                         <ul class="list">
                                                                             <li>
-                                                                                <a href="<?php echo base_url('search/index') ?>"></a>
+                                                                                <a href="<?php echo base_url('search/index') ?>">Ajax
+                                                                                    Search</a>
                                                                             </li>
                                                                         </ul>
                                                                     </div>
@@ -328,7 +329,7 @@
                                             </a>
                                         </div>
                                         <div class="onhover-div">
-                                            <a href="wishlist.html">
+                                            <a href="<?php echo base_url('wishlist/index') ?>">
                                                 <div class="wislist-empty">
                                                     <i class="fab fa-gratipay"></i>
                                                     <h6 class="mb-1">Daftar keinginanmu kosong !!</h6>
@@ -338,6 +339,77 @@
                                         </div>
                                     </li>
                                 </ul>
+                            </div>
+                            <div class="search-full">
+                                <div class="input-group">
+                                    <span class="input-group-text">
+                                        <i data-feather="search" class="font-light"></i>
+                                    </span>
+                                    <input type="text" class="form-control search-type" placeholder="Cari disini..">
+                                    <span class="input-group-text close-search">
+                                        <i data-feather="x" class="font-light"></i>
+                                    </span>
+                                </div>
+                                <div class="search-suggestion">
+                                    <ul class="custom-scroll">
+                                        <li>
+                                            <div class="product-cart media">
+                                                <img src="../assets/images/fashion/product/front/2.jpg" class="img-fluid blur-up lazyload" alt="">
+                                                <div class="media-body">
+                                                    <a href="javascript:void(0)">
+                                                        <h6 class="mb-1">Kerudung Putih</h6>
+                                                    </a>
+                                                    <ul class="rating p-0">
+                                                        <li>
+                                                            <i class="fas fa-star theme-color"></i>
+                                                        </li>
+                                                        <li>
+                                                            <i class="fas fa-star theme-color"></i>
+                                                        </li>
+                                                        <li>
+                                                            <i class="fas fa-star theme-color"></i>
+                                                        </li>
+                                                        <li>
+                                                            <i class="fas fa-star"></i>
+                                                        </li>
+                                                        <li>
+                                                            <i class="fas fa-star"></i>
+                                                        </li>
+                                                    </ul>
+                                                    <p class="mb-0 mt-1">Rp20,000</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="product-cart media">
+                                                <img src="../assets/images/fashion/product/front/1.jpg" class="img-fluid blur-up lazyload" alt="">
+                                                <div class="media-body">
+                                                    <a href="javascript:void(0)">
+                                                        <h6 class="mb-1">Celana Hitam</h6>
+                                                    </a>
+                                                    <ul class="rating m-0 p-0">
+                                                        <li>
+                                                            <i class="fas fa-star theme-color"></i>
+                                                        </li>
+                                                        <li>
+                                                            <i class="fas fa-star theme-color"></i>
+                                                        </li>
+                                                        <li>
+                                                            <i class="fas fa-star theme-color"></i>
+                                                        </li>
+                                                        <li>
+                                                            <i class="fas fa-star theme-color"></i>
+                                                        </li>
+                                                        <li>
+                                                            <i class="fas fa-star theme-color"></i>
+                                                        </li>
+                                                    </ul>
+                                                    <p class="mb-0 mt-1">Rp80,000</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -349,25 +421,23 @@
 
     <!-- mobile fix menu start -->
     <div class="mobile-menu d-sm-none">
-        <ul>
-            <li>
-                <a href="<?php echo base_url('home') ?>" class="active">
-                    <i data-feather="home"></i>
-                    <span>Home</span>
-                </a>
-            </li>
-            <li>
-                <a href="<?php echo base_url('wishlist/index') ?>">
-                    <i data-feather="heart"></i>
-                    <span>Wishlist</span>
-                </a>
-            </li>
-            <li>
-                <a href="user-dashboard.html">
-                    <i data-feather="user"></i>
-                    <span>Akun</span>
-                </a>
-            </li>
-        </ul>
+        <li>
+            <a href="<?php echo base_url('home') ?>" class="active">
+                <i data-feather="home"></i>
+                <span>Home</span>
+            </a>
+        </li>
+        <li>
+            <a href="<?php echo base_url('wishlist/index') ?>">
+                <i data-feather="heart"></i>
+                <span>Wishlist</span>
+            </a>
+        </li>
+        <li>
+            <a href="user-dashboard.html">
+                <i data-feather="user"></i>
+                <span>Akun</span>
+            </a>
+        </li>
     </div>
     <!-- mobile fix menu end -->

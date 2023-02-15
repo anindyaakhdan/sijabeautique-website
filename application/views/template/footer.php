@@ -7,7 +7,7 @@
                     <div class="footer-contact">
                         <div class="brand-logo">
                             <a href="<?php echo base_url('') ?>" class="footer-logo">
-                                <img style="height: 150px;" src="assets/images/logo.png" class="img-fluid blur-up lazyload" alt="logo">
+                                <img style="height: 150px;" src="../assets/images/logo.png" class="img-fluid blur-up lazyload" alt="logo">
                             </a>
                         </div>
                         <ul class="contact-lists">
