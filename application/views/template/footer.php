@@ -94,7 +94,7 @@
                         <div class="footer-content">
                             <ul>
                                 <li>
-                                    <a href="<?php echo base_url('wishlist/index') ?>" class="font-dark">Pesanan saya</a>
+                                    <a href="<?php echo base_url('wishlist/') ?>" class="font-dark">Pesanan saya</a>
                                 </li>
                                 <li>
                                     <a href="<?php echo base_url('notfound/error404') ?>" class="font-dark">Akun saya</a>
@@ -103,10 +103,10 @@
                                     <a href="<?php echo base_url('notfound/error404') ?>" class="font-dark">Lacak Pesanan</a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url('wishlist/index') ?>" class="font-dark">Wishlist saya</a>
+                                    <a href="<?php echo base_url('wishlist/') ?>" class="font-dark">Wishlist saya</a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url('faq/index') ?>" class="font-dark">Shopping FAQs</a>
+                                    <a href="<?php echo base_url('faq/') ?>" class="font-dark">Shopping FAQs</a>
                                 </li>
                             </ul>
                         </div>

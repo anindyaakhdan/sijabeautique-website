@@ -229,7 +229,7 @@
                                                                     <div class="submenu-content opensubmegamenu">
                                                                         <ul class="list">
                                                                             <li>
-                                                                                <a href="<?php echo base_url('search/index') ?>">Ajax
+                                                                                <a href="<?php echo base_url('search/') ?>">Ajax
                                                                                     Search</a>
                                                                             </li>
                                                                         </ul>
@@ -323,13 +323,13 @@
                                     </li>
                                     <li class="onhover-dropdown wislist-dropdown">
                                         <div class="cart-media">
-                                            <a href="<?php echo base_url('wishlist/index') ?>">
+                                            <a href="<?php echo base_url('wishlist/') ?>">
                                                 <i data-feather="heart"></i>
                                                 <span class="label label-theme rounded-pill">5</span>
                                             </a>
                                         </div>
                                         <div class="onhover-div">
-                                            <a href="<?php echo base_url('wishlist/index') ?>">
+                                            <a href="<?php echo base_url('wishlist/') ?>">
                                                 <div class="wislist-empty">
                                                     <i class="fab fa-gratipay"></i>
                                                     <h6 class="mb-1">Daftar keinginanmu kosong !!</h6>
@@ -428,7 +428,7 @@
             </a>
         </li>
         <li>
-            <a href="<?php echo base_url('wishlist/index') ?>">
+            <a href="<?php echo base_url('wishlist/') ?>">
                 <i data-feather="heart"></i>
                 <span>Wishlist</span>
             </a>
