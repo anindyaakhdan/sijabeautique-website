@@ -787,7 +787,7 @@
             <div class="col-xxl-10 col-lg-9">
                 <div class="category-wrapper category-slider1 white-arrow category-arrow">
                     <div>
-                        <a href="<?php echo base_url('shop/') ?>" class="category-wrap category-padding">
+                        <a href="<?php echo base_url('hijab/semuahijab') ?>" class="category-wrap category-padding">
                             <img src="assets/images/fashion/category/1.jpg" class="bg-img blur-up lazyload" alt="category image">
                             <div class="category-content category-text-1">
                                 <h3 class="theme-color">Kerudung</h3>
@@ -796,7 +796,7 @@
                         </a>
                     </div>
                     <div>
-                        <a href="<?php echo base_url('shop/') ?>" class="category-wrap category-padding">
+                        <a href="<?php echo base_url('pakaian/blus') ?>" class="category-wrap category-padding">
                             <img src="assets/images/fashion/category/2.jpg" class="bg-img blur-up lazyload" alt="category image">
                             <div class="category-content category-text-1">
                                 <h3 class="theme-color">Blus</h3>
@@ -805,7 +805,7 @@
                         </a>
                     </div>
                     <div>
-                        <a href="<?php echo base_url('shop/') ?>" class="category-wrap category-padding">
+                        <a href="<?php echo base_url('pakaian/rompi') ?>" class="category-wrap category-padding">
                             <img src="assets/images/fashion/category/3.jpg" class="bg-img blur-up lazyload" alt="category image">
                             <div class="category-content category-text-1">
                                 <h3 class="theme-color">Rompi</h3>
@@ -814,7 +814,7 @@
                         </a>
                     </div>
                     <div>
-                        <a href="<?php echo base_url('shop/') ?>" class="category-wrap category-padding">
+                        <a href="<?php echo base_url('pakaian/rok') ?>" class="category-wrap category-padding">
                             <img src="assets/images/fashion/category/4.jpg" class="bg-img blur-up lazyload" alt="category image">
                             <div class="category-content category-text-1">
                                 <h3 class="theme-color">Rok</h3>
@@ -823,7 +823,7 @@
                         </a>
                     </div>
                     <div>
-                        <a href="<?php echo base_url('shop/') ?>" class="category-wrap category-padding">
+                        <a href="<?php echo base_url('pakaian/pria') ?>" class="category-wrap category-padding">
                             <img src="assets/images/fashion/category/3.jpg" class="bg-img blur-up lazyload" alt="category image">
                             <div class="category-content category-text-1">
                                 <h3 class="theme-color">Jeans</h3>

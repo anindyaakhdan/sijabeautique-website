@@ -146,7 +146,7 @@
                     </div>
                 </div>
                 <div class="row g-4">
-                    <h3>25 Hasil DItemukan</h3>
+                    <h3>25 Hasil Ditemukan</h3>
 
                     <!-- label and featured section -->
                     <div class="col-12">
@@ -275,12 +275,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -297,12 +297,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="compare.html">
+                                            <a href="<?php echo base_url('shop/') ?>">
                                                 <i data-feather="refresh-cw"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="wishlist.html" class="wishlist">
+                                            <a href="<?php echo base_url('wishlist/') ?>" class="wishlist">
                                                 <i data-feather="heart"></i>
                                             </a>
                                         </li>
@@ -331,7 +331,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="<?php echo base_url('produk/index') ?>" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -343,7 +343,7 @@
                                             accusantium architecto placeat quam officia, tempore repellendus.</p>
                                     </div>
                                     <h3 class="theme-color">Rp200,000</h3>
-                                    <button onclick="location.href = 'cart.html';" class="btn listing-content">Masukan Keranjang</button>
+                                    <button onclick="location.href = '<?php echo base_url('wishlist/') ?>';" class="btn listing-content">Masukan Keranjang</button>
                                 </div>
                             </div>
                         </div>
@@ -354,12 +354,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -376,12 +376,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="compare.html">
+                                            <a href="<?php echo base_url('shop/') ?>">
                                                 <i data-feather="refresh-cw"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="wishlist.html" class="wishlist">
+                                            <a href="<?php echo base_url('wishlist/') ?>" class="wishlist">
                                                 <i data-feather="heart"></i>
                                             </a>
                                         </li>
@@ -410,7 +410,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="<?php echo base_url('produk/index') ?>" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -422,7 +422,7 @@
                                             accusantium architecto placeat quam officia, tempore repellendus.</p>
                                     </div>
                                     <h3 class="theme-color">Rp200,000</h3>
-                                    <button onclick="location.href = 'cart.html';" class="btn listing-content">Masukan Keranjang</button>
+                                    <button onclick="location.href = '<?php echo base_url('wishlist/') ?>';" class="btn listing-content">Masukan Keranjang</button>
                                 </div>
                             </div>
                         </div>
@@ -433,12 +433,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -455,12 +455,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="compare.html">
+                                            <a href="<?php echo base_url('shop/') ?>">
                                                 <i data-feather="refresh-cw"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="wishlist.html" class="wishlist">
+                                            <a href="<?php echo base_url('wishlist/') ?>" class="wishlist">
                                                 <i data-feather="heart"></i>
                                             </a>
                                         </li>
@@ -489,7 +489,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="<?php echo base_url('produk/index') ?>" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -501,7 +501,7 @@
                                             accusantium architecto placeat quam officia, tempore repellendus.</p>
                                     </div>
                                     <h3 class="theme-color">Rp200,000</h3>
-                                    <button onclick="location.href = 'cart.html';" class="btn listing-content">Masukan Keranjang</button>
+                                    <button onclick="location.href = '<?php echo base_url('wishlist/') ?>';" class="btn listing-content">Masukan Keranjang</button>
                                 </div>
                             </div>
                         </div>
@@ -512,12 +512,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -534,12 +534,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="compare.html">
+                                            <a href="<?php echo base_url('shop/') ?>">
                                                 <i data-feather="refresh-cw"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="wishlist.html" class="wishlist">
+                                            <a href="<?php echo base_url('wishlist/') ?>" class="wishlist">
                                                 <i data-feather="heart"></i>
                                             </a>
                                         </li>
@@ -568,7 +568,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="<?php echo base_url('produk/index') ?>" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -580,7 +580,7 @@
                                             accusantium architecto placeat quam officia, tempore repellendus.</p>
                                     </div>
                                     <h3 class="theme-color">Rp200,000</h3>
-                                    <button onclick="location.href = 'cart.html';" class="btn listing-content">Masukan Keranjang</button>
+                                    <button onclick="location.href = '<?php echo base_url('wishlist/') ?>';" class="btn listing-content">Masukan Keranjang</button>
                                 </div>
                             </div>
                         </div>
@@ -591,12 +591,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -613,12 +613,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="compare.html">
+                                            <a href="<?php echo base_url('shop/') ?>">
                                                 <i data-feather="refresh-cw"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="wishlist.html" class="wishlist">
+                                            <a href="<?php echo base_url('wishlist/') ?>" class="wishlist">
                                                 <i data-feather="heart"></i>
                                             </a>
                                         </li>
@@ -647,7 +647,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="<?php echo base_url('produk/index') ?>" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -659,7 +659,7 @@
                                             accusantium architecto placeat quam officia, tempore repellendus.</p>
                                     </div>
                                     <h3 class="theme-color">Rp200,000</h3>
-                                    <button onclick="location.href = 'cart.html';" class="btn listing-content">Masukan Keranjang</button>
+                                    <button onclick="location.href = '<?php echo base_url('wishlist/') ?>';" class="btn listing-content">Masukan Keranjang</button>
                                 </div>
                             </div>
                         </div>
@@ -670,12 +670,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -692,12 +692,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="compare.html">
+                                            <a href="<?php echo base_url('shop/') ?>">
                                                 <i data-feather="refresh-cw"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="wishlist.html" class="wishlist">
+                                            <a href="<?php echo base_url('wishlist/') ?>" class="wishlist">
                                                 <i data-feather="heart"></i>
                                             </a>
                                         </li>
@@ -726,7 +726,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="<?php echo base_url('produk/index') ?>" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -738,7 +738,7 @@
                                             accusantium architecto placeat quam officia, tempore repellendus.</p>
                                     </div>
                                     <h3 class="theme-color">Rp200,000</h3>
-                                    <button onclick="location.href = 'cart.html';" class="btn listing-content">Masukan Keranjang</button>
+                                    <button onclick="location.href = '<?php echo base_url('wishlist/') ?>';" class="btn listing-content">Masukan Keranjang</button>
                                 </div>
                             </div>
                         </div>
@@ -749,12 +749,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -771,12 +771,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="compare.html">
+                                            <a href="<?php echo base_url('shop/') ?>">
                                                 <i data-feather="refresh-cw"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="wishlist.html" class="wishlist">
+                                            <a href="<?php echo base_url('wishlist/') ?>" class="wishlist">
                                                 <i data-feather="heart"></i>
                                             </a>
                                         </li>
@@ -805,7 +805,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="<?php echo base_url('produk/index') ?>" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -817,7 +817,7 @@
                                             accusantium architecto placeat quam officia, tempore repellendus.</p>
                                     </div>
                                     <h3 class="theme-color">Rp200,000</h3>
-                                    <button onclick="location.href = 'cart.html';" class="btn listing-content">Masukan Keranjang</button>
+                                    <button onclick="location.href = '<?php echo base_url('wishlist/') ?>';" class="btn listing-content">Masukan Keranjang</button>
                                 </div>
                             </div>
                         </div>
@@ -828,12 +828,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="<?php echo base_url('produk/index') ?>">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -850,12 +850,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="compare.html">
+                                            <a href="<?php echo base_url('shop/') ?>">
                                                 <i data-feather="refresh-cw"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="wishlist.html" class="wishlist">
+                                            <a href="<?php echo base_url('wishlist/') ?>" class="wishlist">
                                                 <i data-feather="heart"></i>
                                             </a>
                                         </li>
@@ -884,7 +884,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="<?php echo base_url('produk/index') ?>" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -896,7 +896,7 @@
                                             accusantium architecto placeat quam officia, tempore repellendus.</p>
                                     </div>
                                     <h3 class="theme-color">Rp200,000</h3>
-                                    <button onclick="location.href = 'cart.html';" class="btn listing-content">Masukan Keranjang</button>
+                                    <button onclick="location.href = '<?php echo base_url('wishlist/') ?>';" class="btn listing-content">Masukan Keranjang</button>
                                 </div>
                             </div>
                         </div>
@@ -1033,8 +1033,8 @@
                                 </ul>
                             </div>
                             <div class="product-btns">
-                                <a href="cart.html" class="btn btn-solid-default btn-sm">Masukan Keranjang</a>
-                                <a href="<?php echo base_url('produk/index') ?>" class="btn btn-solid-default btn-sm">Lebih Lanjut</a>
+                                <a href="<?php echo base_url('wishlist/') ?>" class="btn btn-solid-default btn-sm">Masukan Keranjang</a>
+                                <a href="<?php echo base_url('produk/') ?>" class="btn btn-solid-default btn-sm">Lebih Lanjut</a>
                             </div>
                         </div>
                     </div>
@@ -1072,7 +1072,7 @@
                                 </div>
                                 <div class="shop-cart-button mt-3">
                                     <a href="<?php echo base_url('shop/index') ?>" class="btn default-light-theme conti-button default-theme default-theme-2 rounded">LANJUT BELANJA</a>
-                                    <a href="cart.html" class="btn default-light-theme conti-button default-theme default-theme-2 rounded">LIHAT KERANJANG</a>
+                                    <a href="<?php echo base_url('wishlist/') ?>" class="btn default-light-theme conti-button default-theme default-theme-2 rounded">LIHAT KERANJANG</a>
                                 </div>
                             </div>
                         </div>
@@ -1088,7 +1088,7 @@
                                         <div class="product-box">
                                             <div class="img-wrapper">
                                                 <div class="front">
-                                                    <a href="<?php echo base_url('produk/index') ?>">
+                                                    <a href="<?php echo base_url('produk/') ?>">
                                                         <img src="../assets/images/fashion/product/front/1.jpg" class="bg-img blur-up lazyload" alt="">
                                                     </a>
                                                 </div>
