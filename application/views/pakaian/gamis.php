@@ -275,12 +275,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -331,7 +331,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -354,12 +354,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -410,7 +410,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -433,12 +433,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -489,7 +489,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -512,12 +512,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -568,7 +568,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -591,12 +591,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -647,7 +647,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -670,12 +670,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -726,7 +726,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -749,12 +749,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -805,7 +805,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
@@ -828,12 +828,12 @@
                         <div class="product-box">
                             <div class="img-wrapper">
                                 <div class="front">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/front/3.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
                                 <div class="back">
-                                    <a href="product-left-sidebar.html">
+                                    <a href="<?php echo base_url('produk/') ?>">
                                         <img src="../assets/images/fashion/product/back/2.jpg" class="bg-img blur-up lazyload" alt="">
                                     </a>
                                 </div>
@@ -884,7 +884,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-price">
-                                    <a href="product-left-sidebar.html" class="font-default">
+                                    <a href="<?php echo base_url('produk/') ?>" class="font-default">
                                         <h5 class="ms-0">Kemeja Putih Abu Polos</h5>
                                     </a>
                                     <div class="listing-content">
