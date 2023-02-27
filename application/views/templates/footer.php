@@ -97,7 +97,7 @@
                                     <a href="<?php echo base_url('wishlist/') ?>" class="font-dark">Pesanan saya</a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url('notfound/error404') ?>" class="font-dark">Akun saya</a>
+                                    <a href="<?php echo base_url('account/') ?>" class="font-dark">Akun saya</a>
                                 </li>
                                 <li>
                                     <a href="<?php echo base_url('notfound/error404') ?>" class="font-dark">Lacak Pesanan</a>
